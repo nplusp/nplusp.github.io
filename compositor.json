@@ -41,11 +41,15 @@
   },
   "content": [
     {
-      "component": "nav",
+      "component": "footer",
       "links": [
         {
           "href": "https://github.com/nplusp/nplusp.github.io",
           "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/nplusp",
+          "text": "nplusp"
         }
       ]
     },
@@ -63,19 +67,6 @@
           "component": "ui/GithubButton",
           "user": "nplusp",
           "repo": "nplusp.github.io"
-        }
-      ]
-    },
-    {
-      "component": "footer",
-      "links": [
-        {
-          "href": "https://github.com/nplusp/nplusp.github.io",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/nplusp",
-          "text": "nplusp"
         }
       ]
     }
